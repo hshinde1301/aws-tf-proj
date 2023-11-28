@@ -1,0 +1,7 @@
+var.region							= "us-east-1"
+var.aws-project                     = "prod-ecs"
+var.vpc_cidr                        = "10.0.0.0/16"
+var.public-subnet-az1-cidr          = "10.0.0.0/24"
+var.aws-prd-public-subnet-1-cidr    = "10.0.0.0/24"
+var.aws-prd-pvt-subnet-1-cidr       = "10.0.2.0/24"
+var.aws-prd-pvt-data-sbnt-1         = " "
